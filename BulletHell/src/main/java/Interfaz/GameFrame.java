@@ -11,5 +11,6 @@ public class GameFrame extends JFrame {
         GamePanel panel = new GamePanel();
         this.add(panel);
         this.pack();
+        //esto es un comentario
     }
 }
