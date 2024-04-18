@@ -1,4 +1,6 @@
 package Modelos;
 
-public class Score {
+import java.awt.*;
+
+public class Score extends Rectangle {
 }

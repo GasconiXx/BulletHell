@@ -1,4 +1,6 @@
 package Modelos;
 
-public class Player {
+import java.awt.*;
+
+public class Player extends Rectangle {
 }

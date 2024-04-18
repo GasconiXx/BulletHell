@@ -1,4 +1,6 @@
 package Modelos;
 
-public class Bullet {
+import java.awt.*;
+
+public class Bullet extends Rectangle {
 }
